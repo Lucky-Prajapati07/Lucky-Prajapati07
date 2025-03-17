@@ -1,3 +1,5 @@
+![logo](https://github.com/Lucky-Prajapati07/Lucky-Prajapati07/blob/main/Github.png)
+
 <h1 align="center">Hi 👋, I'm Lucky Prajapati</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
